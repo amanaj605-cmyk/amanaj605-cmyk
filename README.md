@@ -11,6 +11,7 @@ Currently learning:
 * Networking Basics
 * Log Analysis
 * SIEM Concepts
+* TryHackMe Labs
 * Git & GitHub
 
 ## Cybersecurity Projects
